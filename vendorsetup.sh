@@ -1,1 +1,1 @@
-add_luch_combo omni_platy-eng
+add_lunch_combo omni_platy-eng
